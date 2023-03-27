@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-auth-oauthlib/#history
 
+## [1.0.1](https://github.com/googleapis/google-auth-library-python-oauthlib/compare/v1.0.0...v1.0.1) (2023-03-27)
+
+
+### Documentation
+
+* Fix grammar with fetch_token docstring ([#273](https://github.com/googleapis/google-auth-library-python-oauthlib/issues/273)) ([b2e3688](https://github.com/googleapis/google-auth-library-python-oauthlib/commit/b2e3688462ea9326afee2cae0f580857bc59b5f7))
+
 ## [1.0.0](https://github.com/googleapis/google-auth-library-python-oauthlib/compare/v0.8.0...v1.0.0) (2023-02-06)
 
 
